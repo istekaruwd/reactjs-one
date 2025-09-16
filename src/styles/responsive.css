@@ -1,0 +1,653 @@
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+  /* Slider Two */
+
+  .single_slidertwo_text_two {
+    padding-left: 8%;
+  }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  /* Slider */
+
+  .single_slider_text h2 {
+    letter-spacing: 0;
+  }
+
+  /* Why Choose us */
+
+  .why_choos_section {
+    background-image: none !important;
+    background-color: var(--white);
+  }
+
+  /* Fun Facts */
+
+  .funfact_heading h3 {
+    font-size: 32px;
+  }
+
+  .facts_wrapper_icon {
+    right: 15px;
+  }
+
+  /* Header Two */
+
+  .navigation_v2_inr {
+    gap: 15px;
+  }
+
+  /* Slider Two */
+
+  .single_slidertwo_text_two {
+    padding-left: 10%;
+  }
+
+  .single_slidertwo_text h2 {
+    font-size: 54px;
+    line-height: 60px;
+    letter-spacing: 0;
+  }
+
+  /* About Two */
+
+  .about_section_v2 {
+    padding-top: 261.5px;
+  }
+
+  /* Pricing Two */
+
+  .pricing_box_two {
+    padding: 30px 40px 45px;
+  }
+
+  /* Footer */
+
+  .footer_newsletter_input {
+    padding-right: 0;
+    flex-grow: initial;
+    width: 75%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  /* Header  */
+
+  .header_button .tem_btn {
+    padding: 14px 25px;
+  }
+
+  /* Nav */
+
+  .navigation_onepage_inr,
+  .navigation_inr {
+    gap: 15px;
+  }
+
+  .nav_navbar li a {
+    padding: 30px 10px;
+  }
+
+  .nav_navbar li.has-children a {
+    padding-right: 5px;
+  }
+
+  /* Nav OnePage */
+
+  .navigation_onepage_inr .nav_navbar li button {
+    padding: 30px 14px;
+  }
+
+  /* Slider */
+
+  .single_slider_text h2 {
+    letter-spacing: 0;
+    font-size: 54px;
+    line-height: 60px;
+  }
+
+  /* About */
+
+  .about_thumb {
+    margin-top: 35px;
+  }
+
+  /* Services */
+
+  .service_para_top {
+    gap: 14px;
+  }
+
+  .service_icon_box {
+    width: 36px;
+    padding: 3px 8px;
+  }
+
+  .service_icon_box i {
+    font-size: 18px;
+  }
+
+  .service_para_top h5 {
+    font-size: 17px;
+    letter-spacing: 0;
+  }
+
+  /* Why Choose us */
+
+  .why_choos_section {
+    background-image: none !important;
+    background-color: var(--white);
+  }
+
+  /* Fun Fact */
+
+  .funfacts_section_inr {
+    position: initial;
+    transform: translateY(0);
+  }
+
+  .funfacts_content {
+    padding: 90px 0;
+  }
+
+  /* Gallery */
+
+  .projects_buttons button {
+    padding: 10px 8px;
+  }
+
+  /* Contact */
+
+  .contact_info_content span.contact_info_text {
+    font-size: 15px;
+  }
+
+  /* Header Two */
+
+  .navigation_v2_inr {
+    gap: 14px;
+  }
+
+  .header_social_v2 {
+    display: none;
+  }
+
+  /* Slider Two */
+
+  .single_slidertwo_text {
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
+  .single_slidertwo_text h2 {
+    font-size: 54px;
+    line-height: 60px;
+    letter-spacing: 0;
+  }
+
+  /* Promo */
+
+  .single_promo_box {
+    padding: 60px 30px;
+  }
+
+  /* About Two */
+
+  .about_section_v2 {
+    padding-top: 273.5px;
+  }
+
+  /* Pricing Two */
+
+  .pricing_box_two {
+    padding: 30px 10px 45px;
+  }
+
+  /* Team Two */
+
+  .single_team_content_v2 .bio {
+    margin-bottom: 10px;
+  }
+
+  .team_nav_slider_area_v2 {
+    position: static;
+    margin-top: 15px;
+  }
+
+  /* Blog */
+
+  .blog_content_warp {
+    padding: 20px 10px;
+  }
+
+  /* Blog Page */
+
+  .blog_page_sidebar {
+    margin-top: 100px;
+  }
+
+  .blog_content_meta {
+    gap: 10px;
+  }
+
+  /* Single Blog Page */
+
+  .single_blog_quote {
+    margin-top: 20px;
+  }
+
+  /* Single Service Page */
+
+  .ser_page_nav {
+    margin-top: 50px;
+  }
+
+  /* Footer */
+
+  .footer_social {
+    padding: 20px 0;
+  }
+}
+
+/* Mobile Responsive Styles */
+@media only screen and (max-width: 767px) {
+  /* Global */
+
+  .section_heading_two h3,
+  .section_heading_one h3 {
+    line-height: 40px;
+    letter-spacing: 0;
+  }
+
+  /* Header  */
+
+  .header_button {
+    display: none;
+  }
+
+  .header_info {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .header_social {
+    margin-top: 10px;
+    justify-content: flex-start;
+  }
+
+  .header_top_area {
+    padding: 15px 0;
+  }
+
+  /* Nav */
+
+  .navigation_onepage_inr,
+  .navigation_v2_inr,
+  .navigation_inr {
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .header_onepage_logo,
+  .header_logo {
+    width: 100%;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .nav_navwrap {
+    width: 100%;
+    display: none;
+  }
+
+  .nav_navwrap.open {
+    display: block;
+  }
+
+  .nav_navbar {
+    flex-direction: column;
+    background-color: var(--white);
+  }
+
+  .nav_navbar li {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .nav_navbar li a {
+    padding: 15px 0;
+    flex-grow: 1;
+  }
+
+  /* Nav Two */
+
+  .header_social_v2 {
+    display: none;
+  }
+
+  .header_v2_logo {
+    padding: 16px 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  /* Nav OnePage */
+
+  .navigation_onepage_inr .nav_navbar {
+    padding: 10px 0;
+  }
+
+  .navigation_onepage_inr .nav_navbar li button {
+    width: 100%;
+    padding: 10px 20px;
+    text-align: left;
+  }
+
+  /* Submenu */
+
+  .nav_navbar .nav_submenu {
+    position: relative;
+    opacity: 1;
+    visibility: visible;
+    flex-basis: 100%;
+    display: none;
+  }
+
+  .nav_navbar .nav_submenu.open {
+    display: block;
+  }
+
+  .nav_navbar .nav_submenu li a {
+    height: auto !important;
+    padding: 15px 25px !important;
+    width: 100%;
+  }
+
+  /* Hamburger icon */
+
+  .nav_hamburger {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 30px;
+    height: 25px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    z-index: 10;
+  }
+
+  .nav_hamburger span {
+    width: 100%;
+    height: 3px;
+    background-color: var(--gray-900);
+    border-radius: 5px;
+    transition: all 0.3s ease;
+  }
+
+  .nav_hamburger.open span:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
+  }
+
+  .nav_hamburger.open span:nth-child(2) {
+    opacity: 0;
+  }
+
+  .nav_hamburger.open span:nth-child(3) {
+    transform: rotate(-45deg) translate(7px, -6px);
+  }
+
+  /* Slider */
+
+  .single_slider_text {
+    text-align: center;
+  }
+
+  .single_slider_text h2 {
+    font-size: 35px;
+    line-height: 44px;
+  }
+
+  /* About */
+
+  .about_list_top h5 {
+    letter-spacing: 0;
+  }
+
+  .about_thumb {
+    margin-top: 35px;
+  }
+
+  /* Why Choose us */
+
+  .why_choos_section {
+    background-image: none !important;
+    background-color: var(--white);
+  }
+
+  /* Fun fact  */
+
+  .funfacts_content {
+    padding: 90px 0;
+  }
+
+  .funfacts_section_inr {
+    position: initial;
+    transform: translateY(0);
+  }
+
+  .funfact_heading {
+    margin-bottom: 15px;
+  }
+
+  .funfact_heading h3 {
+    text-align: left;
+    font-size: 33px;
+  }
+
+  .facts_wrapper {
+    margin-top: 15px;
+  }
+
+  /* Slide Two */
+
+  .single_slidertwo_text {
+    text-align: center;
+  }
+
+  .single_slidertwo_text h2 {
+    font-size: 35px;
+    line-height: 44px;
+    letter-spacing: 0;
+  }
+
+  .hero_slider_two .slick-prev,
+  .hero_slider_two .slick-next {
+    top: auto;
+    bottom: 0;
+  }
+
+  .slider_v2_next {
+    right: 30%;
+  }
+
+  .slider_v2_prev {
+    left: 30%;
+  }
+
+  /* Work Section */
+
+  .works_section {
+    padding-top: 100px;
+  }
+
+  .projects_buttons button {
+    background-color: transparent;
+  }
+
+  /* Promo */
+
+  .promo_area {
+    padding: 100px 0;
+    background-color: var(--slate-50);
+  }
+
+  .promo_area_inr {
+    position: static;
+    transform: translateY(0%);
+  }
+
+  /* About Two */
+
+  .about_section_v2 {
+    padding-top: 100px;
+  }
+
+  /* Gallery Two */
+
+  .works_inr_two {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  /* Fun Fact Two */
+
+  .funfacts_section_two {
+    padding: 100px 0;
+    text-align: center;
+  }
+
+  .funfact_heading_two {
+    margin-bottom: 30px;
+  }
+
+  .funfact_heading_two h3 {
+    font-size: 33px;
+  }
+
+  .funfacts_section_two .facts_wrapper {
+    margin-top: 0;
+  }
+
+  /* Pricing Plan Two */
+
+  .pricing_box_two {
+    padding: 30px;
+  }
+
+  /* Testimonial Two */
+
+  .testimonials_sec_v2 {
+    background-image: none !important;
+  }
+
+  /* Team Two */
+
+  .single_team_social_v2 {
+    position: static;
+    justify-content: flex-start;
+    margin-bottom: 30px;
+  }
+
+  .team_nav_slider_area_v2 {
+    position: static;
+    margin-top: 15px;
+  }
+
+  /* Blog */
+
+  .blog_content_meta {
+    gap: 10px;
+  }
+
+  /* Blog Page */
+
+  .blog_page_sidebar {
+    margin-top: 100px;
+  }
+
+  /* Single Blog Page */
+
+  .single_blog_quote {
+    margin-top: 20px;
+  }
+
+  .single_comment {
+    flex-direction: column;
+  }
+
+  /* Skill */
+
+  .skill_text ul li {
+    flex-basis: 100%;
+  }
+
+  /* Single Service Page */
+
+  .ser_page_nav {
+    margin-top: 50px;
+  }
+
+  /* Single Gallery Page  */
+
+  .gallery_page_carousel .carousel-control-next,
+  .gallery_page_carousel .carousel-control-prev {
+    top: 65%;
+  }
+
+  /* Footer */
+
+  .footer_bottom {
+    padding: 20px 0;
+  }
+
+  .footer_social {
+    padding: 20px 0;
+  }
+
+  .footer_newsletter_input {
+    flex-grow: initial;
+  }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  /* Home Blog */
+
+  .blog_content_warp {
+    padding: 20px 10px;
+  }
+
+  .blog_content_meta {
+    gap: 10px;
+  }
+
+  /* Slider Two */
+
+  .slider_v2_next {
+    right: 38%;
+  }
+
+  .slider_v2_prev {
+    left: 38%;
+  }
+
+  /* Fun Fact Two */
+
+  .funfact_heading_two {
+    margin-bottom: 0;
+  }
+
+  /* Single Gallery Page  */
+
+  .gallery_page_carousel .carousel-control-next,
+  .gallery_page_carousel .carousel-control-prev {
+    top: 75%;
+  }
+}

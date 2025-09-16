@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "title": "New Business Strategy",
+    "category": "Computer",
+    "excerpt": "Simply dummy text ofthe aana the printing oter think  industry dummy texat thhke tex ate are ofthe anadthe after that.",
+    "thumb": "/images/blog_1.jpg",
+    "tag": "office",
+    "content": "Lorem Ipsum is simply dummy text ofthe anadthe printing of typesetting industry dummy texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of typesetting  texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of Lorem Ipsum is simply dummy text ofthe anadthe printing of type setting industry dummy texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of type",
+    "blockQuote": "Simply dummy text ofthe aana the printing oter think  industry dummy texat thhke tex ate are ofthe anadthe after that ofthe aana the printing oter think  industry dummy texat thhke tex. ",
+    "blockQuoteImg": "/images/blog_1.jpg",
+    "blockQuoteWriter": "John Smith",
+    "blockQuoteWriterPosition": "CEO & Founder",
+    "contentSecondPart": " Lorem Ipsum is simply dummy text ofthe anadthe printing of type setting industry dummy texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of type setting industry",
+    "publishDate": "June 01",
+    "btnText": "Read more",
+    "commentCount": "3",
+    "comments": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "date": "Jan 1, 2024",
+        "text": "This article explained the fundamentals of business growth very clearly. I liked how practical strategies were presented with real-world examples that anyone could apply confidently in a competitive industry environment today.",
+        "proPic": "/images/tes1.jpg",
+        "replies": [
+          {
+            "id": 2,
+            "name": "Jane Smith",
+            "date": "Jan 2, 2024",
+            "text": "Yes John, I also found the real-world examples extremely helpful. The step-by-step breakdown ensures that even beginners understand strategic planning clearly without feeling overwhelmed by technical or corporate jargon issues.",
+            "proPic": "/images/tes2.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "How to grow your business",
+    "category": "Laptop",
+    "excerpt": "Simply dummy text ofthe aana the printing oter think  industry dummy texat thhke tex ate are ofthe anadthe after that.",
+    "thumb": "/images/blog_2.jpg",
+    "tag": "Pakaging",
+    "content": "Lorem Ipsum is simply dummy text ofthe anadthe printing of typesetting industry dummy texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of typesetting  texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of Lorem Ipsum is simply dummy text ofthe anadthe printing of type setting industry dummy texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of type",
+    "blockQuote": "Simply dummy text ofthe aana the printing oter think  industry dummy texat thhke tex ate are ofthe anadthe after that ofthe aana the printing oter think  industry dummy texat thhke tex. ",
+    "blockQuoteImg": "/images/blog_1.jpg",
+    "blockQuoteWriter": "Sarah Johnson",
+    "blockQuoteWriterPosition": "Marketing Director",
+    "contentSecondPart": " Lorem Ipsum is simply dummy text ofthe anadthe printing of type setting industry dummy texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of type setting industry",
+    "publishDate": "June 02",
+    "btnText": "Read more",
+    "commentCount": "3",
+    "comments": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "date": "Jan 1, 2024",
+        "text": "This article explained the fundamentals of business growth very clearly. I liked how practical strategies were presented with real-world examples that anyone could apply confidently in a competitive industry environment today.",
+        "proPic": "/images/tes1.jpg",
+        "replies": [
+          {
+            "id": 2,
+            "name": "Jane Smith",
+            "date": "Jan 2, 2024",
+            "text": "Yes John, I also found the real-world examples extremely helpful. The step-by-step breakdown ensures that even beginners understand strategic planning clearly without feeling overwhelmed by technical or corporate jargon issues.",
+            "proPic": "/images/tes2.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "How to increase sales",
+    "category": "Corporate",
+    "excerpt": "Simply dummy text ofthe aana the printing oter think  industry dummy texat thhke tex ate are ofthe anadthe after that.",
+    "thumb": "/images/blog_3.jpg",
+    "tag": "restaurants",
+    "content": "Lorem Ipsum is simply dummy text ofthe anadthe printing of typesetting industry dummy texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of typesetting  texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of Lorem Ipsum is simply dummy text ofthe anadthe printing of type setting industry dummy texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of type",
+    "blockQuote": "Simply dummy text ofthe aana the printing oter think  industry dummy texat thhke tex ate are ofthe anadthe after that ofthe aana the printing oter think  industry dummy texat thhke tex. ",
+    "blockQuoteImg": "/images/blog_1.jpg",
+    "blockQuoteWriter": "Michael Brown",
+    "blockQuoteWriterPosition": "Sales Manager",
+    "contentSecondPart": " Lorem Ipsum is simply dummy text ofthe anadthe printing of type setting industry dummy texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of type setting industry",
+    "publishDate": "June 05",
+    "btnText": "Read more",
+    "commentCount": "3",
+    "comments": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "date": "Jan 1, 2024",
+        "text": "This article explained the fundamentals of business growth very clearly. I liked how practical strategies were presented with real-world examples that anyone could apply confidently in a competitive industry environment today.",
+        "proPic": "/images/tes1.jpg",
+        "replies": [
+          {
+            "id": 2,
+            "name": "Jane Smith",
+            "date": "Jan 2, 2024",
+            "text": "Yes John, I also found the real-world examples extremely helpful. The step-by-step breakdown ensures that even beginners understand strategic planning clearly without feeling overwhelmed by technical or corporate jargon issues.",
+            "proPic": "/images/tes2.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "How to manage clients",
+    "category": "Business",
+    "excerpt": "Simply dummy text ofthe aana the printing oter think  industry dummy texat thhke tex ate are ofthe anadthe after that.",
+    "thumb": "/images/blog_2.jpg",
+    "tag": "Install",
+    "content": "Lorem Ipsum is simply dummy text ofthe anadthe printing of typesetting industry dummy texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of typesetting  texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of Lorem Ipsum is simply dummy text ofthe anadthe printing of type setting industry dummy texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of type",
+    "blockQuote": "Simply dummy text ofthe aana the printing oter think  industry dummy texat thhke tex ate are ofthe anadthe after that ofthe aana the printing oter think  industry dummy texat thhke tex. ",
+    "blockQuoteImg": "/images/blog_1.jpg",
+    "blockQuoteWriter": "Emily Davis",
+    "blockQuoteWriterPosition": "Client Relations Manager",
+    "contentSecondPart": " Lorem Ipsum is simply dummy text ofthe anadthe printing of type setting industry dummy texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of type setting industry",
+    "publishDate": "June 09",
+    "btnText": "Read more",
+    "commentCount": "3",
+    "comments": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "date": "Jan 1, 2024",
+        "text": "This article explained the fundamentals of business growth very clearly. I liked how practical strategies were presented with real-world examples that anyone could apply confidently in a competitive industry environment today.",
+        "proPic": "/images/tes1.jpg",
+        "replies": [
+          {
+            "id": 2,
+            "name": "Jane Smith",
+            "date": "Jan 2, 2024",
+            "text": "Yes John, I also found the real-world examples extremely helpful. The step-by-step breakdown ensures that even beginners understand strategic planning clearly without feeling overwhelmed by technical or corporate jargon issues.",
+            "proPic": "/images/tes2.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Don't spend cleaning",
+    "category": "Monitor",
+    "excerpt": "Simply dummy text ofthe aana the printing oter think  industry dummy texat thhke tex ate are ofthe anadthe after that.",
+    "thumb": "/images/blog_1.jpg",
+    "tag": "house",
+    "content": "Lorem Ipsum is simply dummy text ofthe anadthe printing of typesetting industry dummy texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of typesetting  texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of Lorem Ipsum is simply dummy text ofthe anadthe printing of type setting industry dummy texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of type",
+    "blockQuote": "Simply dummy text ofthe aana the printing oter think  industry dummy texat thhke tex ate are ofthe anadthe after that ofthe aana the printing oter think  industry dummy texat thhke tex. ",
+    "blockQuoteImg": "/images/blog_1.jpg",
+    "blockQuoteWriter": "Robert Wilson",
+    "blockQuoteWriterPosition": "Operations Director",
+    "contentSecondPart": " Lorem Ipsum is simply dummy text ofthe anadthe printing of type setting industry dummy texat the dummy text ofthe anadthe printing dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of dummy text ofthe anadthe printing of type setting industry",
+    "publishDate": "June 07",
+    "btnText": "Read more",
+    "commentCount": "3",
+    "comments": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "date": "Jan 1, 2024",
+        "text": "This article explained the fundamentals of business growth very clearly. I liked how practical strategies were presented with real-world examples that anyone could apply confidently in a competitive industry environment today.",
+        "proPic": "/images/tes1.jpg",
+        "replies": [
+          {
+            "id": 2,
+            "name": "Jane Smith",
+            "date": "Jan 2, 2024",
+            "text": "Yes John, I also found the real-world examples extremely helpful. The step-by-step breakdown ensures that even beginners understand strategic planning clearly without feeling overwhelmed by technical or corporate jargon issues.",
+            "proPic": "/images/tes2.jpg"
+          }
+        ]
+      }
+    ]
+  }
+]

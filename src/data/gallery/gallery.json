@@ -1,0 +1,155 @@
+[
+  {
+    "id": 1,
+    "title": "Graphic Design",
+    "thumb": "/images/work_1.jpg",
+    "tag": "business",
+    "previewImages": ["/images/blog_1.jpg", "/images/blog_2.jpg"],
+    "contentParts": [
+      "We worked on branding guidelines, typography, and layouts to ensure a strong identity. This included creating marketing collaterals and templates usable across multiple platforms.",
+      "Our design team collaborated with the client stakeholders to refine the style direction. The overall result was a modern yet timeless branding language."
+    ],
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "Clean, House",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": "California, USA"
+  },
+  {
+    "id": 2,
+    "title": "Creative Strategy",
+    "thumb": "/images/work_2.jpg",
+    "tag": "marketing",
+    "previewImages": ["/images/blog_1.jpg", "/images/blog_2.jpg"],
+    "contentParts": [
+      "We worked on branding guidelines, typography, and layouts to ensure a strong identity. This included creating marketing collaterals and templates usable across multiple platforms.",
+      "Our design team collaborated with the client stakeholders to refine the style direction. The overall result was a modern yet timeless branding language."
+    ],
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "Clean, House",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": "California, USA"
+  },
+  {
+    "id": 3,
+    "title": "Marketing Policy",
+    "thumb": "/images/work_3.jpg",
+    "tag": "creative",
+    "previewImages": ["/images/blog_1.jpg", "/images/blog_2.jpg"],
+    "contentParts": [
+      "We worked on branding guidelines, typography, and layouts to ensure a strong identity. This included creating marketing collaterals and templates usable across multiple platforms.",
+      "Our design team collaborated with the client stakeholders to refine the style direction. The overall result was a modern yet timeless branding language."
+    ],
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "Clean, House",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": "California, USA"
+  },
+  {
+    "id": 4,
+    "title": "Campaign & PR",
+    "thumb": "/images/work_4.jpg",
+    "tag": "design",
+    "previewImages": ["/images/blog_1.jpg", "/images/blog_2.jpg"],
+    "contentParts": [
+      "We worked on branding guidelines, typography, and layouts to ensure a strong identity. This included creating marketing collaterals and templates usable across multiple platforms.",
+      "Our design team collaborated with the client stakeholders to refine the style direction. The overall result was a modern yet timeless branding language."
+    ],
+    "clientName": "David Jon ",
+    "companyName": "Market",
+    "workType": "Clean, House",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": "California, USA"
+  },
+  {
+    "id": 5,
+    "title": "Creative Ideas",
+    "thumb": "/images/work_5.jpg",
+    "tag": "development",
+    "previewImages": ["/images/blog_1.jpg", "/images/blog_2.jpg"],
+    "contentParts": [
+      "We worked on branding guidelines, typography, and layouts to ensure a strong identity. This included creating marketing collaterals and templates usable across multiple platforms.",
+      "Our design team collaborated with the client stakeholders to refine the style direction. The overall result was a modern yet timeless branding language."
+    ],
+    "clientName": "David Jon ",
+    "companyName": "Market",
+    "workType": "Clean, House",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": "California, USA"
+  },
+  {
+    "id": 6,
+    "title": "Digital Solutions",
+    "thumb": "/images/work_6.jpg",
+    "tag": "strategy",
+    "previewImages": ["/images/blog_1.jpg", "/images/blog_2.jpg"],
+    "contentParts": [
+      "We worked on branding guidelines, typography, and layouts to ensure a strong identity. This included creating marketing collaterals and templates usable across multiple platforms.",
+      "Our design team collaborated with the client stakeholders to refine the style direction. The overall result was a modern yet timeless branding language."
+    ],
+    "clientName": "David Jon ",
+    "companyName": "Market",
+    "workType": "Clean, House",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": "California, USA"
+  },
+  {
+    "id": 7,
+    "title": "Marketing Strategy",
+    "thumb": "/images/work_7.jpg",
+    "tag": "social",
+    "previewImages": ["/images/blog_1.jpg", "/images/blog_2.jpg"],
+    "contentParts": [
+      "We worked on branding guidelines, typography, and layouts to ensure a strong identity. This included creating marketing collaterals and templates usable across multiple platforms.",
+      "Our design team collaborated with the client stakeholders to refine the style direction. The overall result was a modern yet timeless branding language."
+    ],
+    "clientName": "David Jon ",
+    "companyName": "Market",
+    "workType": "Clean, House",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": "California, USA"
+  },
+  {
+    "id": 8,
+    "title": "Digital Service",
+    "thumb": "/images/work_8.jpg",
+    "tag": "media",
+    "previewImages": ["/images/blog_1.jpg", "/images/blog_2.jpg"],
+    "contentParts": [
+      "We worked on branding guidelines, typography, and layouts to ensure a strong identity. This included creating marketing collaterals and templates usable across multiple platforms.",
+      "Our design team collaborated with the client stakeholders to refine the style direction. The overall result was a modern yet timeless branding language."
+    ],
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "Clean, House",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": "California, USA"
+  },
+  {
+    "id": 9,
+    "title": "Graphic Design",
+    "thumb": "/images/work_1.jpg",
+    "tag": "social",
+    "previewImages": ["/images/blog_1.jpg", "/images/blog_2.jpg"],
+    "contentParts": [
+      "We worked on branding guidelines, typography, and layouts to ensure a strong identity. This included creating marketing collaterals and templates usable across multiple platforms.",
+      "Our design team collaborated with the client stakeholders to refine the style direction. The overall result was a modern yet timeless branding language."
+    ],
+    "clientName": "David Jon ",
+    "companyName": "Market ",
+    "workType": "Clean, House",
+    "projectDate": "07 Jan 2017",
+    "Budget": "$2357",
+    "Location": "California, USA"
+  }
+]

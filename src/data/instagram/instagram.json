@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "/images/blog_1.jpg",
+    "link": "https://www.instagram.com/p/1",
+    "alt": "Nature photography"
+  },
+  {
+    "id": 2,
+    "image": "/images/blog_2.jpg",
+    "link": "https://www.instagram.com/p/2",
+    "alt": "Urban landscape"
+  },
+  {
+    "id": 3,
+    "image": "/images/blog_3.jpg",
+    "link": "https://www.instagram.com/p/3",
+    "alt": "Portrait shot"
+  },
+  {
+    "id": 4,
+    "image": "/images/blog_1.jpg",
+    "link": "https://www.instagram.com/p/4",
+    "alt": "Food photography"
+  },
+  {
+    "id": 5,
+    "image": "/images/blog_2.jpg",
+    "link": "https://www.instagram.com/p/5",
+    "alt": "Travel adventure"
+  },
+  {
+    "id": 6,
+    "image": "/images/blog_3.jpg",
+    "link": "https://www.instagram.com/p/6",
+    "alt": "Minimalist design"
+  }
+]

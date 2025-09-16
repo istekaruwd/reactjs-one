@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "planIcon": "pricing_icon_2.png",
+    "planName": "Onetime plan",
+    "currencyType": "$",
+    "planPrice": "70",
+    "subscribePlan": "Per Month",
+    "buttonLink": "/",
+    "buttonText": "Order now",
+    "planFeatures": [
+      "One-time Cleaning",
+      "Additional trucks",
+      "Regular Cleaning",
+      "Move-ins / Outs"
+    ],
+    "text": "Lorem Ipsum is simply dummy text of the printing"
+  },
+  {
+    "id": 2,
+    "planIcon": "pricing_icon_1.png",
+    "planName": "Regular plan",
+    "currencyType": "$",
+    "planPrice": "80",
+    "subscribePlan": "Per Month",
+    "buttonLink": "/",
+    "buttonText": "Order now",
+    "planFeatures": [
+      "One-time Cleaning",
+      "Additional trucks",
+      "Regular Cleaning",
+      "Move-ins / Outs"
+    ],
+    "text": "Lorem Ipsum is simply dummy text of the printing"
+  },
+  {
+    "id": 3,
+    "planIcon": "pricing_icon_3.png",
+    "planName": "Deep plan",
+    "currencyType": "$",
+    "planPrice": "90",
+    "subscribePlan": "Per Month",
+    "buttonLink": "/",
+    "buttonText": "Order now",
+    "planFeatures": [
+      "One-time Cleaning",
+      "Additional trucks",
+      "Regular Cleaning",
+      "Move-ins / Outs"
+    ],
+    "text": "Lorem Ipsum is simply dummy text of the printing"
+  }
+]

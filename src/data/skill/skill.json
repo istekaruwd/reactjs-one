@@ -1,0 +1,30 @@
+{
+  "skillHeading": "How we work",
+  "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sed dapibus enim sit amet pellentesque imperdiet nibh tortor fringilla tortor eu sodales leo augue eget justo. Phasellus id lectus id metus ornare sempereget rem ipsum dolor sit amet consectetur adipiscing elit. Sed dapibus enim sit amet pellentesque imperdiet nibh tortor fringilla tortor",
+  "bulletPoints": [
+    "Global Chain Solutions",
+    "Global Chain Solutions",
+    "24 Hours - Technical Support",
+    "Global Chain Solutions",
+    "Global Chain Solutions",
+    "24 Hours - Technical Support"
+  ],
+  "skills": [
+    {
+      "name": "Finance",
+      "percent": 70
+    },
+    {
+      "name": "Marketings",
+      "percent": 90
+    },
+    {
+      "name": "Resource",
+      "percent": 60
+    },
+    {
+      "name": "Development",
+      "percent": 80
+    }
+  ]
+}

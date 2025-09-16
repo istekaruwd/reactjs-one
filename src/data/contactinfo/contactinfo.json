@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "ei ei-icon_pin_alt",
+    "heading": "Company name",
+    "info": "California, USA"
+  },
+  {
+    "id": 2,
+    "icon": "ei ei-icon_phone",
+    "heading": "Toll Free Number",
+    "info": "0 (245) 378-6748"
+  },
+  {
+    "id": 3,
+    "icon": "ei ei-icon_clock_alt",
+    "heading": "Opening Hours",
+    "info": "Mon-Fri 9am - 6pm"
+  }
+]

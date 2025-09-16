@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Business Develop",
+    "text": "Loren ipsum dolor sitamet adipiscing elit sed do eiusmod ameth lectus id metus ornare sempereget",
+    "icon": "ei ei-icon_group"
+  },
+  {
+    "id": 2,
+    "title": "Creative Work",
+    "text": "Loren ipsum dolor sitamet adipiscing elit sed do eiusmod ameth lectus id metus ornare sempereget",
+    "icon": "ei ei-icon_cog"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  { "id": "homeTwo", "label": "Home" },
+  { "id": "aboutTwo", "label": "About" },
+  { "id": "servicesTwo", "label": "Services" },
+  { "id": "workTwo", "label": "Work" },
+  { "id": "teamTwo", "label": "Team" },
+  { "id": "pricingTwo", "label": "Pricing" },
+  { "id": "blogTwo", "label": "Blog" }
+]

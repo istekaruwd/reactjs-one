@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "counterNumber": 275,
+    "counterText": " Loggs transfered ",
+    "counterIcon": "ei ei-icon_genius"
+  },
+  {
+    "id": 2,
+    "counterNumber": 374,
+    "counterText": " Happy customers ",
+    "counterIcon": "ei ei-icon_heart_alt"
+  },
+  {
+    "id": 3,
+    "counterNumber": 437,
+    "counterText": " Miles travelled",
+    "counterIcon": "ei ei-arrow_move"
+  }
+]

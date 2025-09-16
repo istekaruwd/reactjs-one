@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "<span>We are </span> elizah <br> Business co.",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sed dapibus enim sit amet pellentesque imperdiet nibh tortor fringilla tortor eu sodales leo augue eget justo.",
+    "image": "/images/slider6.jpg",
+    "buttonText": "Get A Quote",
+    "buttonLink": "/"
+  },
+  {
+    "id": 2,
+    "title": "<span>We are </span> elizah <br> Business co.",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sed dapibus enim sit amet pellentesque imperdiet nibh tortor fringilla tortor eu sodales leo augue eget justo.",
+    "image": "/images/slider5.jpg",
+    "buttonText": "Contact Us",
+    "buttonLink": "/"
+  }
+]

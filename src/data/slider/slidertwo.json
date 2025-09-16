@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to Elizah <br> Creative Studio",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sed dapibus enim sit amet pellentesque imperdiet nibh tortor fringilla tortor eu sodales leo augue eget justo.",
+    "bg": "/images/slider3.jpg",
+    "btnText": "Get A Quote",
+    "btnLink": "/"
+  },
+  {
+    "id": 2,
+    "title": "Welcome to Elizah <br> Creative Studio",
+    "description": "Lorem ipsum dolor sit amet consectetur adipiscing elit. Sed dapibus enim sit amet pellentesque imperdiet nibh tortor fringilla tortor eu sodales leo augue eget justo.",
+    "bg": "/images/slider4.jpg",
+    "btnText": "Contact Us",
+    "btnLink": "/"
+  }
+]

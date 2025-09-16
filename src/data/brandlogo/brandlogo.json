@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "logoSrc": "/images/client-1.jpg",
+    "URL": "/",
+    "isExternal": false,
+    "brandName": "TechNova Solutions"
+  },
+  {
+    "id": 2,
+    "logoSrc": "/images/client-4.jpg",
+    "URL": "https://themeforest.net/",
+    "isExternal": true,
+    "brandName": "Global Marketing Pro"
+  },
+  {
+    "id": 3,
+    "logoSrc": "/images/client-2.jpg",
+    "URL": "/",
+    "isExternal": false,
+    "brandName": "Creative Studio Elite"
+  },
+  {
+    "id": 4,
+    "logoSrc": "/images/client-3.jpg",
+    "URL": "/",
+    "isExternal": false,
+    "brandName": "Digital Innovation Hub"
+  },
+  {
+    "id": 5,
+    "logoSrc": "/images/client-1.jpg",
+    "URL": "/",
+    "isExternal": false,
+    "brandName": "TechNova Solutions"
+  },
+  {
+    "id": 6,
+    "logoSrc": "/images/client-5.jpg",
+    "URL": "/",
+    "isExternal": false,
+    "brandName": "Premium Branding Co"
+  },
+  {
+    "id": 7,
+    "logoSrc": "/images/client-3.jpg",
+    "URL": "/",
+    "isExternal": false,
+    "brandName": "Digital Innovation Hub"
+  }
+]

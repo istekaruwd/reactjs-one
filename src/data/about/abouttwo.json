@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "thumb": "/images/service_1.jpg",
+    "title": "business growth",
+    "text": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas efficitur"
+  },
+  {
+    "id": 2,
+    "thumb": "/images/service_2.jpg",
+    "title": "advanced analtic",
+    "text": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas efficitur"
+  },
+  {
+    "id": 3,
+    "thumb": "/images/service_3.jpg",
+    "title": "customer insights",
+    "text": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas efficitur"
+  }
+]

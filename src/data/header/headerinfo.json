@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "icon": "fa-solid fa-phone",
+      "text": "247 3567845"
+    },
+    {
+      "id": 2,
+      "icon": "fa-regular fa-envelope",
+      "text": "yourmail@gmail.com"
+    }
+  ]
+}

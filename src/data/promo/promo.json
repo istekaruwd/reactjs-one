@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "01/ Strategy",
+    "icon": "ei ei-icon_genius",
+    "bgImg": "/images/promo_1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "02/ Planning",
+    "icon": "ei ei-icon_heart_alt",
+    "text": "dolor sit amet cons ectetur adipi scing elited asellu id lectu quis duia cosn splacet amet cons ectetu adipi scing id",
+    "bgImg": "/images/promo_2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "03/ build",
+    "icon": "ei ei-icon_house_alt",
+    "bgImg": "/images/promo_3.jpg"
+  }
+]

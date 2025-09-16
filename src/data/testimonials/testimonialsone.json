@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "quote": "Lorem ipsum dolor sit ametet verear infor noluisse eumdiam congue refor midans was at atomorum his idpri te hinc expetendasts ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    "author": "John Watson",
+    "designation": "CEO At Facebook",
+    "authorThumb": "/images/tes3.jpg",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "quote": "Lorem ipsum dolor sit ametet verear infor noluisse eumdiam congue refor midans was at atomorum his idpri te hinc expetendasts ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    "author": "Adam Crew",
+    "designation": "CEO At Facebook",
+    "authorThumb": "/images/tes2.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "quote": "Lorem ipsum dolor sit ametet verear infor noluisse eumdiam congue refor midans was at atomorum his idpri te hinc expetendasts ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    "author": "Deo Crew",
+    "designation": "Manager",
+    "authorThumb": "/images/tes1.jpg",
+    "rating": 4
+  }
+]

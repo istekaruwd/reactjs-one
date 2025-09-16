@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Why choose us",
+    "link": "/"
+  },
+  {
+    "id": 2,
+    "title": "Our service",
+    "link": "/"
+  },
+  {
+    "id": 3,
+    "title": "About us",
+    "link": "/about"
+  }
+]

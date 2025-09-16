@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "link": "/",
+    "subMenu": [
+      {
+        "id": 1.1,
+        "title": "Home V1",
+        "link": "/"
+      },
+      {
+        "id": 1.2,
+        "title": "Home V2",
+        "link": "/home-two"
+      },
+      {
+        "id": 1.3,
+        "title": "Home V3",
+        "link": "/home-three"
+      },
+      {
+        "id": 1.4,
+        "title": "Landingpage V1",
+        "link": "/landingpage-one"
+      },
+      {
+        "id": 1.5,
+        "title": "Landingpage V2",
+        "link": "/landingpage-two"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "About",
+    "link": "/about",
+    "subMenu": false
+  },
+  {
+    "id": 3,
+    "title": "Services",
+    "link": "/service"
+  },
+  {
+    "id": 4,
+    "title": "Gallery",
+    "link": "/gallery",
+    "subMenu": false
+  },
+  {
+    "id": 5,
+    "title": "Blog",
+    "link": "/blog",
+    "subMenu": [
+      {
+        "title": "Blog Page",
+        "link": "/blog"
+      },
+      {
+        "title": "Blog Page V2",
+        "link": "/blog-two"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Team",
+    "link": "/team"
+  },
+  {
+    "id": 7,
+    "title": "Contact",
+    "link": "/contact"
+  }
+]
