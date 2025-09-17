@@ -9,7 +9,7 @@ export default function Preloader() {
 
     function onLoad() {
       // small delay for smooth fade-out
-      timeoutId = window.setTimeout(() => setVisible(false), 300);
+      timeoutId = window.setTimeout(() => setVisible(false), 1000);
     }
 
     if (document.readyState === 'complete') {
